@@ -1,0 +1,15 @@
+1) Bir yılın artık yıl olup olmadığını öğrenmek için bir PL/SQL bloğu yazın.
+Artık yıl 4'e bölünebilir, ancak 100'e bölünemez veya 400'e bölünebilir.
+Örneğin, 2000 ve 2004 artık yıl, ancak 1900 ve 2001 artık yıl değil. (İpucu: MOD (n, d) işlevi n'yi d'ye böler ve işlemden kalan tamsayıyı döndürür)‏
+2) Temel bir döngü kullanarak 1 ile 10 arasındaki tüm tek sayıları yazdırmak için bir PL/SQL bloğu yazın.
+3) Bir FOR döngüsü kullanarak, 10'dan 1'e kadar olan değerleri ters sırayla yazdırın.
+4) NUMBER türünde tek sütunlu ItemNum ile ITEM adlı bir tablo oluşturun.
+ItemNum için 1'den 5'e kadar değerler girebilen bir PL/SQL programı yazın.
+5) Yerine koyma değişkeni olan bir sayı girin ve ardından bir WHILE döngüsü kullanarak çarpım tablosunu yazdırın.
+
+6) 1 ile 12 arasında bir ay numarası ve 4 basamaklı bir yıl girin ve o aydaki gün sayısını yazdırın.
+Şubat (ay = 2) için, 28 veya 29'a eşit gün sayısını görüntülemek için artık yılı kontrol edin.
+7) 4. soruda oluşturulan ITEM tablosundan 4 numaralı maddeyi silmek için bir PL/SQL bloğu kullanın.
+8) Bir kullanıcıdan geçerli bir çalışan kimliği girmesini istemek için bir PL/SQL bloğu yazın.
+Çalışanların adını, nitelik açıklamasını, maaşını ve komisyonunu alın.
+Adı, niteliği ve maaş ve komisyon tutarını yazdırın.

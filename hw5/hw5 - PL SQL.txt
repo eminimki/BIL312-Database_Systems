@@ -1,0 +1,21 @@
+1. Aşağıdakileri gerçekleştirmek için bir PL/SQL anonim bloğu kullanan bir program betiği oluşturun:
+Sonucu depolamak için bir ana bilgisayar değişkeni AREA kullanın.
+Sayısal veri türüyle yerel bir değişken RADIUS bildirin.
+3.14 değeriyle sabit bir PI bildirin.
+Bir ikame değişkeni kullanarak RADIUS değişkenine bir değer atayın.
+Formülü kullanarak bir dairenin alanını hesaplayın
+ALAN = PI * YARIÇAP * YARIÇAP
+Ardından sonucu SQL*Plus'ta yazdırın.
+
+2. Bir ikame değişkeni ile girilen bir sayının karesini, küpünü ve çiftini bulmak için bir PL/SQL bloğu yazın ve yerleşik DBMS_OUTPUT paketini kullanarak sonuçları yazdırın.
+
+
+3. İki değişkenin değerlerini değiştirmek için bir PL/SQL bloğu yazın.
+Değiştirmeden önce ve sonra değişkenleri yazdırın.
+4. Saat ve oranı girmek için bir PL/SQL programı yazın.
+Brüt ücreti ve net ücreti bulun.
+Vergi oranı %28'dir.
+Sonuçlarınızı yazdırın.
+5. Adı ve soyadı için iki değişkenli bir PL/SQL programı yazın.
+Tam adı, soyadı ve adı virgül ve boşlukla ayırarak yazdırın.
+6. Belirli bir çalışan kimliğinin tam adını almak için bir PL/SQL programı yazın. Tam adı, soyadı ve adı virgül ve boşlukla ayırarak yazdırın.

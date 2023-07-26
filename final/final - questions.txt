@@ -1,0 +1,31 @@
+PROJE ÖNERİLERİ
+Kan Bağışı Yönetim Sistemi
+Yemek Tarifi Sitesi
+Kütüphane Veritabanı Yönetim Sistemi
+Çevrimiçi Perakende Veritabanı Yazılımı
+Envanter Yönetim Sistemi
+Sesli Komutlar Taşıma Sorgulama Sistemi
+Karbon Emisyon Hesaplayıcısı
+Demiryolu Kontrol Sistemi Veritabanı
+Öğrenci Veritabanı Yönetimi
+Hastane Yönetim Sistemi
+Bordro Yönetim Sistemi
+Market Satışları
+Merkezi Üniversite Veritabanı
+Yemek Hizmeti Veritabanı SQL Projesi
+Elektrik Faturası Veritabanı Sistemi
+
+
+Yukarıdaki projelerden birini seçiniz ve aşağıdaki proje adımlarını tamamlayınız. Bütün kodların Oracle veritabanında çalıştırılması şarttır.
+1. Projenizin bir E-R diyagramını çiziniz (en az 12 tablo bulunmalıdır). Microsoft Visio veya benzeri bir yazılım aracı kullanınız.
+2. Projenizin tablo oluşturma kodlarını veriniz.
+3. Projenizin indekslerini(birincil, yabancı veya bileşik anahtarlar) oluşturan kodları geliştiriniz.
+4. Projenizin veri girişini bir PL/SQL paketten çağrılabilen bir kod aracılığı(prosedür veya fonksiyon) ile gerçekleştiriniz.
+5. Projenizin veri güncellemesini bir PL/SQL paketten çağrılabilen bir kod aracılığı(prosedür veya fonksiyon) ile gerçekleştiriniz.
+6. Projenizin veri silme işlemini bir PL/SQL paketten çağrılabilen bir kod aracılığı(prosedür veya fonksiyon) ile gerçekleştiriniz.
+7. PL/SQL tetik(trigger) yardımı ile bir tanım tablosuna veri girişi yapılırken, hareket tablosuna da veri girişini sağlayınız.
+8. Rapor alabilmek için PL/SQL yardımı ile bir çok sorgu kod parçacığı yazınız. Select deyimlerinin Where kriterine dinamik olarak kısıt yollayınız.
+9. Projenizin E-R diyagramındaki veri tabanınızın 3. normal formda olduğunuz gösteriniz.
+10. PL/SQL paketten çağrılabilen prosedür veya fonksiyon aracılığı ile tablolarda tekrar eden kayıtları siliniz.
+
+ÖNEMLİ: Envanter Yönetim Sistemi seçilmiştir.

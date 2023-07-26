@@ -1,0 +1,97 @@
+Değerli Öğrencilerim,
+
+
+Ara sınavda hazırlayacağınız projelerinizi herhangi bir SQL
+platformunda hazırlayabilirsiniz. Ancak, geçmiş haftalarda sizinle paylaştığım
+Oracle kullanabileceğiniz platformu tercih etmeniz daha iyi olacaktır. Hazırlayacağınız
+projelerinizde sırası ile aşağıdaki unsurların bulunması beklenmektedir:
+
+
+1.      
+En az 8 tane tablonun bulunduğu, tablo isimleri
+ve özniteliklerin Türkçe olarak tanımlandığı (Create Table …) SQL
+cümleciklerinin hazırlanması gerekmektedir. 
+Bu tablolar sırası ile
+
+
+a.      
+E-ticaret veri tabanı
+
+
+b.     
+E-öğrenme veri tabanı
+
+
+c.      
+E-okul veri tabanı
+
+
+d.     
+Ürün üreten bir fabrika veri tabanı
+
+
+e.     
+Servis veren bir işletme veri tabanı
+
+
+f.       
+E-servis veri tabanı
+
+
+g.      
+Moda veri tabanı
+
+
+h.     
+Filimler veri tabanı
+
+
+i.        
+E-kitaplık veri tabanı
+
+
+j.       
+V.b. olabilir.
+
+
+2.      
+Seçmiş olduğunuz veri tabanı tablolarının
+indekslerini oluşturunuz (create index on).
+
+
+3.      
+Her tabloya, önce tanım tablolarına sonra
+detay(hareket) tablolarına olmak üzere veri girişini gerçekleştiriniz (insert
+into tablo1 values()…)
+
+
+4.      
+Hazırlamış olduğunuz veri tabanına göre,
+senaryolar oluşturunuz ve bir tablodan satırları filtreleyiniz. Filtreleme
+yaparken Select ve Where deyimlerini kullanmanız gereklidir.
+
+
+5.      
+Birden çok tabloyu kullanabileceğiniz bir
+senaryo oluşturunuz. Filtreleme yaparken Select Where ve Join deyimlerini
+kullanmanız gereklidir.
+
+
+6.      
+Toplamsal fonksiyonları kullanabileceğiniz
+(count, max, min, avg, sum gibi) senaryolar oluşturup, Select, Group by, Having,
+Order By deyimlerini kullanabileceğiniz senaryoların birden çok SQL deyimlerini
+yazınız (en az dört farklı senaryo için SQL ifadelerini oluşturunuz).
+
+
+7.      
+Veri tabanınıza eklemiş olduğunuz satırların
+bazılarını değiştirmek için Update deyimini kullanan bir SQL cümleciği
+çalıştırınız.
+
+
+8.      
+Veri tabanınıza eklemiş olduğunuz satırların
+bazılarını silmek için Delete deyimini kullanan bir SQL cümleciği çalıştırınız.
+
+ÖNEMLİ: Havayolu şirketi seçilmiştir.
